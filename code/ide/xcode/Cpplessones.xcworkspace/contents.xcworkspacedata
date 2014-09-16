@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:L08_Overload/L08_Overload.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L07_Funcs/L07_Funcs.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L05_SuperC/L05_SuperC.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L03_Class_Extends/L03_Class_Extends.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L02_NameSpace/L02_NameSpace.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L01OOP/L01OOP.xcodeproj">
+   </FileRef>
+</Workspace>
