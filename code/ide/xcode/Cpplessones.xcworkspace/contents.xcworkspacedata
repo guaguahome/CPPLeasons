@@ -2,6 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:L13_Ref/L13_Ref.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L11_Point/L11_Point.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L12_FunctionPoint/L12_FunctionPoint.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L09_Operator/L09_Operator.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:L08_Overload/L08_Overload.xcodeproj">
    </FileRef>
    <FileRef
